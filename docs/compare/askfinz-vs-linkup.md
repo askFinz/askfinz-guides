@@ -24,7 +24,7 @@ The things people actually ask before choosing between Linkup and askFinz.
 
 ### Is Linkup cheaper than askFinz?
 
-No, at published rates. Linkup is around $5.00 per 1,000 requests as of 12 August 2026; askFinz publishes $0.75 as a top-up, $1.00 with the extension and $3.50 standalone.
+No, at published rates. Linkup is around $5.00 per 1,000 requests as of 12 August 2026; askFinz publishes $0.75 as a top-up, $1.00 with the extension or a paid plan and $3.50 standalone.
 
 ### Does Linkup run its own index?
 
@@ -32,7 +32,7 @@ Yes, Linkup searches its own index rather than relaying another engine's results
 
 ### Does askFinz have flat pricing too?
 
-Yes, per search, at three published rates depending on how you use it — top-up, with the extension, or standalone. There is no volume tier to model.
+Yes, per search, at three published rates depending on how you use it — top-up, with the extension or a paid plan, or standalone. There is no volume tier to model.
 
 ### Which is better for an agent I am building myself?
 

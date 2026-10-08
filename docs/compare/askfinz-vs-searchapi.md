@@ -30,7 +30,7 @@ The things people actually ask before choosing between SearchAPI and askFinz.
 
 ### Is SearchAPI cheaper than askFinz?
 
-Sometimes. Its published range is $1.00–$4.00 per 1,000 calls depending on engine and endpoint, as of 12 August 2026; askFinz publishes $0.75 as a top-up, $1.00 with the extension and $3.50 standalone. At the top of SearchAPI's range askFinz is cheaper; at the bottom it is not.
+Sometimes. Its published range is $1.00–$4.00 per 1,000 calls depending on engine and endpoint, as of 12 August 2026; askFinz publishes $0.75 as a top-up, $1.00 with the extension or a paid plan and $3.50 standalone. At the top of SearchAPI's range askFinz is cheaper; at the bottom it is not.
 
 ### Does SearchAPI have its own search index?
 

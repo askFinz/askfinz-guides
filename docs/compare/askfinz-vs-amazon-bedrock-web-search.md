@@ -38,7 +38,7 @@ Yes. Amazon built and operates it rather than licensing a third party's, which i
 
 ### What does Bedrock Web Search cost per query?
 
-AWS publishes $7.00 per 1,000 queries for Bedrock Web Search, read from its own pricing page on 7 September 2026, with up to $200 in free-tier credits for new accounts. That is the figure to compare against askFinz's $0.75 top-up, $1.00 with the extension and $3.50 standalone — and it is a like-for-like comparison, because both sides return passages from an index they operate themselves.
+AWS publishes $7.00 per 1,000 queries for Bedrock Web Search, read from its own pricing page on 7 September 2026, with up to $200 in free-tier credits for new accounts. That is the figure to compare against askFinz's $0.75 top-up, $1.00 with the extension or a paid plan and $3.50 standalone — and it is a like-for-like comparison, because both sides return passages from an index they operate themselves.
 
 ### Is askFinz available on AWS?
 

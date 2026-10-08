@@ -32,7 +32,7 @@ Microsoft publishes more than one figure for it, and no single number is quoted 
 
 ### What does askFinz cost?
 
-$0.75 as a top-up, $1.00 with the extension, $3.50 standalone, per 1,000 searches, as published on pricing.
+$0.75 as a top-up, $1.00 with the extension or a paid plan, $3.50 standalone, per 1,000 searches, as published on pricing.
 
 ### Does askFinz depend on Bing or Google underneath?
 

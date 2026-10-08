@@ -36,7 +36,7 @@ askFinz reads and holds its own index. That is the substantive difference from m
 
 ### Why is askFinz cheaper per search than Tavily?
 
-Partly because the reading has already happened: the index is read continuously rather than assembled per request, so a question is answered against something already held. The published rates are $0.75 as a top-up, $1.00 with the extension and $3.50 standalone, against Tavily's $8.00 per 1,000 as of 12 August 2026.
+Partly because the reading has already happened: the index is read continuously rather than assembled per request, so a question is answered against something already held. The published rates are $0.75 as a top-up, $1.00 with the extension or a paid plan and $3.50 standalone, against Tavily's $8.00 per 1,000 as of 12 August 2026.
 
 ### Can I use askFinz inside an existing agent framework?
 

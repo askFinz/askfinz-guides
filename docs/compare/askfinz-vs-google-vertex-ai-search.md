@@ -34,7 +34,7 @@ The things people actually ask before choosing between Google Vertex AI Search a
 
 ### What does Vertex AI Search cost per 1,000 searches?
 
-Google publishes $1.50 per 1,000 queries for Search Standard Edition and $4.00 for Search Enterprise Edition, read from its own pricing page on 8 September 2026, with the first 10,000 queries per account per month free. Those are not the whole cost: Advanced Generative Answers adds $4.00 per 1,000, index storage runs about $5.00 per GiB per month, grounded generation on your own retrieved data is $2.50 per 1,000 and grounding on Google Search is $35.00 per 1,000. Compare the query rate against askFinz's $0.75 top-up, $1.00 with the extension and $3.50 standalone — then remember that only one side has a corpus to store and ground.
+Google publishes $1.50 per 1,000 queries for Search Standard Edition and $4.00 for Search Enterprise Edition, read from its own pricing page on 8 September 2026, with the first 10,000 queries per account per month free. Those are not the whole cost: Advanced Generative Answers adds $4.00 per 1,000, index storage runs about $5.00 per GiB per month, grounded generation on your own retrieved data is $2.50 per 1,000 and grounding on Google Search is $35.00 per 1,000. Compare the query rate against askFinz's $0.75 top-up, $1.00 with the extension or a paid plan and $3.50 standalone — then remember that only one side has a corpus to store and ground.
 
 ### Can askFinz search my company's internal documents?
 
