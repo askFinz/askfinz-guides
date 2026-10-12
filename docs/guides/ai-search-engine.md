@@ -8,7 +8,7 @@ An AI search engine that understands questions, not just keywords — built for 
 
 ### See it in askFinz
 
-Humans Agents LLMs EN · 24 corpora · 124 ms EU AI Act risk tier 2 obligations ⌘K eur-lex.europa.eu › legal-content › AI-Act › art-9 Primary EU AI Act · Article 9 · Risk management system for tier-2 systems Providers of high-risk AI systems shall establish, implement, document and maintain a…
+Humans Agents LLMs EN · 45 + collections · 124 ms EU AI Act risk tier 2 obligations ⌘K eur-lex.europa.eu › legal-content › AI-Act › art-9 Primary EU AI Act · Article 9 · Risk management system for tier-2 systems Providers of high-risk AI systems shall establish, implement, document and maintain a…
 
 ### What is different about an AI search engine
 
